@@ -2,8 +2,13 @@
     width: 400px;
     height: 600px;
     margin: auto;
-    display: flex;
     justify-content: center;
     align-items: center;
     font-size: 20px;
+}
+.d-none{
+    display: none;
+}
+main{
+    padding: 100px;
 }
